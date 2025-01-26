@@ -21,7 +21,7 @@ This project is a celebration of India’s **74th Republic Day**, where I recrea
 
 ## 🖼️ Live Demo  
 
-Check out the live demo here: [Live Demo Link](#)  
+Check out the live demo here: [Live Demo Link](https://github.com/CodeByAlok/Republic-Day-Triranga/blob/master/7.png)  
 
 ---
 
